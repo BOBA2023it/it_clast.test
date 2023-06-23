@@ -21,3 +21,4 @@ x = sqrt / ((e**a)*b) + a * (e**((2*a)/b))
 formated_res = "{:.12f}".format(x)
 
 print ("Результат:' ", formated_res )
+#edit
